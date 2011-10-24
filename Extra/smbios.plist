@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Copyright</key>
+	<string>SMBios by 7ender @ InMac.org	Created with Champlist.app</string>
+	<key>SMbiosvendor</key>
+	<string>Apple Inc.</string>
+	<key>SMbiosversion</key>
+	<string>MBP81.88Z.0047.B1E.1109091244</string>
+	<key>SMboardproduct</key>
+	<string>Mac-942459F5819B171B</string>
+	<key>SMfamily</key>
+	<string>MacBook Pro</string>
+	<key>SMproductname</key>
+	<string>MacBookPro8,3</string>
+	<key>SMserial</key>
+	<string>QP2FQG2HDF93</string>
+</dict>
+</plist>
